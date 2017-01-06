@@ -7,3 +7,5 @@ clone 或者 下载本项目，打开并cmd+B
 ./logify_cf xxxx.h   xxxx.mm
 
 然后再把 xxxx.mm 拖入Hook Tweak 工程就可以了。
+
+### 暂时还不支持属性的setter和getter方法
